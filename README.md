@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-> I am a Postdoctoral Fellow of the Department of Computing Science and Radiology & Diagnostic Imaging at the University of Alberta. I am mainly focusing on research in Computer Vision, Pattern Recognition and ML/DL.
+> I am a Postdoctoral Fellow of the Department of Computing Science and Radiology & Diagnostic Imaging at the University of Alberta. I mainly focus on research in Computer Vision, Pattern Recognition and ML/DL.
 
 <!--
 **NathanUA/NathanUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
